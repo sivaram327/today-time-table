@@ -13,4 +13,5 @@ git push
 git pull
 
 thanks to makers
+i pull to local repo
 
